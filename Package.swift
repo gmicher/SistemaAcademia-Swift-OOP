@@ -21,8 +21,5 @@ let package = Package(
         .executableTarget(
             name: "Dia_4"
         ),
-        .executableTarget(
-            name: "Dia_5"
-        ),
     ]
 )
